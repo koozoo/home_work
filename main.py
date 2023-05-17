@@ -77,4 +77,4 @@ while count < TRY_LIMIT + 1:
     count += 1
 
 if count == 11:
-    print("Вы проиграли =<")
+    print("Вы проиграли =)")
